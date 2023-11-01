@@ -3,7 +3,7 @@ import PokemonGrid from "@/components/PokemonGrid"
 
 export default function Home() {
 	return (
-		<PageLayout title={"Pokedex"}>
+		<PageLayout title={"About"}>
 			<PokemonGrid />
 		</PageLayout>
 	)
